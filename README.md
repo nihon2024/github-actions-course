@@ -61,4 +61,3 @@ git clone --recurse-submodules git@github.com:sidpalas/devops-directive-github-a
 > }
 > ```
       
-# this is my first change
